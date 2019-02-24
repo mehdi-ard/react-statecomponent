@@ -1,0 +1,23 @@
+{
+  "name": "react-statecomponent",
+  "version": "1.0.0",
+  "description": "New way for state management without wrapper component",
+  "main": "index.js",
+  "scripts": {    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxitten/react-statecomponent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uxitten/react-statecomponent/issues"
+  },
+  "homepage": "https://github.com/uxitten/react-statecomponent#readme",
+  "dependencies": {
+    "jetemit": "^3.1.1",
+    "jetstate": "^1.3.0"
+  }
+}
